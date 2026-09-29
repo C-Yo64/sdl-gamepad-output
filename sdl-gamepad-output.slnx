@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="../SDL-release-3.4.16/VisualC/SDL/SDL.vcxproj" Id="81ce8daf-ebb2-4761-8e45-b71abcca8c68" />
+  <Project Path="../ViGEmClient/src/ViGEmClient.vcxproj" Id="7db06674-1f4f-464b-8e1c-172e9587f9dc">
+    <BuildType Solution="Debug|x64" Project="Debug_LIB" />
+    <BuildType Solution="Debug|x86" Project="Debug_DLL" />
+    <BuildType Solution="Release|x64" Project="Release_DLL" />
+    <BuildType Solution="Release|x86" Project="Release_LIB" />
+  </Project>
+  <Project Path="sdl-gamepad-output/sdl-gamepad-output.vcxproj" Id="1cfab66e-5777-4faa-978c-84ce1872605c" />
+</Solution>
