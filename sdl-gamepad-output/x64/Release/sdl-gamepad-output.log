@@ -1,40 +1,7 @@
 ﻿  gamepad-events.c
-  main.c
   main.cpp
-x64\Release\main.obj : warning LNK4042: object specified more than once; extras ignored
-ViGEmClient.lib(ViGEmClient.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-ViGEmClient.lib(ViGEmClient.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-ViGEmClient.lib(ViGEmClient.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
-libcpmtd.lib(xlock.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(xlock.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(xthrow.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(xthrow.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(cthread.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(cthread.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(xnotify.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(xnotify.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(thread0.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(thread0.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(xmtx.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(xmtx.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(xtime.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(xtime.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(mutex.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(mutex.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(cond.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(cond.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-libcpmtd.lib(syserror.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
-libcpmtd.lib(syserror.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MD_DynamicRelease' in main.obj
-MSVCRT.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmtd.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
-ViGEmClient.lib(ViGEmClient.obj) : error LNK2001: unresolved external symbol _invalid_parameter
-ViGEmClient.lib(ViGEmClient.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
-libcmtd.lib(init.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
-libcpmtd.lib(thread0.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
-libcpmtd.lib(xtime.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
-libcmtd.lib(init.obj) : error LNK2001: unresolved external symbol _CrtDbgReportW
-libcmtd.lib(delete_scalar.obj) : error LNK2001: unresolved external symbol _free_dbg
-libcpmtd.lib(mutex.obj) : error LNK2001: unresolved external symbol _free_dbg
-libcpmtd.lib(cond.obj) : error LNK2001: unresolved external symbol _free_dbg
-libcpmtd.lib(mutex.obj) : error LNK2001: unresolved external symbol _calloc_dbg
-libcpmtd.lib(cond.obj) : error LNK2001: unresolved external symbol _calloc_dbg
-C:\Users\young\dev\sdl-gamepad-output\x64\Release\sdl-gamepad-output.exe : fatal error LNK1120: 5 unresolved externals
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 479 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sdl-gamepad-output.vcxproj -> C:\Users\young\dev\sdl-gamepad-output\x64\Release\sdl-gamepad-output.exe

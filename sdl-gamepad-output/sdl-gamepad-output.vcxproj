@@ -30,12 +30,6 @@
       <Project>{7db06674-1f4f-464b-8e1c-172e9587f9dc}</Project>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\SDL-release-3.4.16\examples\input\04-gamepad-events\onmouseover.webp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\SDL-release-3.4.16\examples\input\04-gamepad-events\thumbnail.png" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
